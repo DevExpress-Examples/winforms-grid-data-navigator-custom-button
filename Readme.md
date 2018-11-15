@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CustomButton/Form1.cs) (VB: [Form1.vb](./VB/CustomButton/Form1.vb))
+* [Program.cs](./CS/CustomButton/Program.cs) (VB: [Program.vb](./VB/CustomButton/Program.vb))
+<!-- default file list end -->
 # How to create a custom button for the EmbeddedNavigator
 
 
